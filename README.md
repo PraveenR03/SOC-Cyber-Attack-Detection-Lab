@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Secure Mini-SOC: End-to-End IDS/IPS Pipeline using Suricata and ELK
 
 
@@ -60,3 +61,7 @@ All virtual machines are connected using a Host-Only Network to isolate the lab 
 
 
 
+=======
+# SOC-Cyber-Attack-Detection-Lab
+End-to-End Cyber Attack Detection and Log Analysis in a Virtual Security Operation Centre using Suricata IDS, ELK stack and PKI.
+>>>>>>> 0d1922ae5fea4da6b0222e0db19862e5f2b55dfe
