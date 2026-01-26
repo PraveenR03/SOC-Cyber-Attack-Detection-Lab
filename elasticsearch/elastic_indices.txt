@@ -1,0 +1,2 @@
+health status index                                  uuid                   pri rep docs.count docs.deleted store.size pri.store.size dataset.size
+yellow open   .ds-filebeat-8.19.10-2026.01.20-000001 2hZQYC54SLKrXTGrIB-9Lg   1   1      10224            0     47.6mb         47.6mb       47.6mb
